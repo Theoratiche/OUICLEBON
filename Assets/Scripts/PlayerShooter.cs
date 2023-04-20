@@ -22,7 +22,7 @@ public class PlayerShooter : MonoBehaviour
     {
         _timer += Time.deltaTime; ;
 
-        if(_timer > 1)
+        if(_timer > 0.5)
         {
             _timer = 0;
             Shoot();
