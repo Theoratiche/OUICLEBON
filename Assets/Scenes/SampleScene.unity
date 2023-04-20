@@ -1252,6 +1252,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3817121694225628472, guid: 02331d316aedf4a4e95dd203858ed021, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3817121694225628475, guid: 02331d316aedf4a4e95dd203858ed021, type: 3}
       propertyPath: m_Name
       value: Asteroid
